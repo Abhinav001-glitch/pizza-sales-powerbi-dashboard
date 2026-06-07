@@ -53,5 +53,4 @@ The dashboard provides insights into:
 
 - pizza_dashboard.pbix
 - SQLQuery1.sql
-- SQL_query_pizza_sales.docx
-- Dataset
+- Screenshots
