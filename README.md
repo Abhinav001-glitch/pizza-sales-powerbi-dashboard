@@ -47,10 +47,6 @@ The dashboard provides insights into:
 
 ![Sales Trends](screenshots/dashboard2.png)
 
-### Product Analysis
-
-![Product Analysis](screenshots/dashboard3.png)
-
 ---
 
 ## Files Included
